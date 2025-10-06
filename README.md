@@ -26,13 +26,16 @@
 
 ---
 
+
 ### 📈 Estatísticas do GitHub
 <div align="center">
 
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzodelucas&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzodelucas&layout=compact&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzodelucas&show_icons=true&theme=github_dark&hide_border=true" alt="Enzo's GitHub stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodelucas&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"/>
 
 </div>
+
 
 ---
 
