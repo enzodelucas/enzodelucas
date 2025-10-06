@@ -24,18 +24,6 @@
 
 </div>
 
----
-
-
-### 📈 Estatísticas do GitHub
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzodelucas&show_icons=true&theme=github_dark&hide_border=true" alt="Enzo's GitHub stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodelucas&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"/>
-
-</div>
-
 
 ---
 
@@ -48,7 +36,7 @@
 ---
 
 ### 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzodelucas)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/enzodelucas](https://www.linkedin.com/in/enzo-de-lucas-dias-de-oliveira-a7a822270))  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzodelucas)
 
 ---
