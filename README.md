@@ -1,13 +1,12 @@
 # 👋 Olá! Eu sou o Enzo De Lucas  
 
-💻 **Full Stack Developer** na [Alterdata Software](https://www.alterdata.com.br)  
+💻 **Full Stack Developer**  
 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**  
-🚀 Apaixonado por tecnologia, performance e boas práticas de código.  
+🚀 Focado em construir aplicações escaláveis, performáticas e bem estruturadas  
 
 ---
 
 ### 🧠 Tecnologias e Ferramentas
-<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,27 +18,42 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
 
 ---
 
 ### 🧩 Sobre mim
-- 🔭 Atualmente atuando como **Full Stack Developer** na Alterdata Software  
-- 🌱 Focado em aprimorar **Spring Boot, .NET, Docker e React**  
-- ⚙️ Apaixonado por **arquitetura de software e clean code**  
-- ☕ Sempre com um café ao lado e um novo desafio no Git  
+- 🔭 Experiência como **Full Stack Developer**, atuando com sistemas reais e integrações  
+- 🌐 Desenvolvimento de APIs REST e aplicações web completas (front + back)  
+- 💳 Experiência com integrações de pagamento e logística (ex: Mercado Pago, Melhor Envio)  
+- ⚙️ Foco em **arquitetura, clean code e boas práticas**  
+- 🚀 Sempre buscando evolução contínua e novos desafios  
+
+---
+
+### 📌 Principais Competências
+- Desenvolvimento de APIs escaláveis  
+- Integração com serviços externos (pagamentos, frete, autenticação OAuth2)  
+- Estruturação de banco de dados relacional  
+- Versionamento com Git e GitHub  
+- Containerização com Docker  
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzodelucas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzodelucas&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/enzodelucas](https://www.linkedin.com/in/enzo-de-lucas-dias-de-oliveira-a7a822270))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-de-lucas-dias-de-oliveira-a7a822270)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzodelucas)
 
 ---
 
-> 💬 “De front a back, o importante é entregar com qualidade.”
-
+### 💡 Filosofia
+> “De front a back, o importante é entregar com qualidade, performance e código limpo.”
